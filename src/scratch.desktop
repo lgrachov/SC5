@@ -1,6 +1,6 @@
 [Desktop Entry]
-Name=Scratch
-Comment= Programming system and content development tool
+Name=SC5
+Comment= Programming system and content development tool for developers
 Exec=scratch
 Terminal=false
 Type=Application
